@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+
+header {
+  background-color: #4CAF50;
+  padding: 10px;
+  color: white;
+}
+
+main {
+  margin: 0;
+  padding: 0;
+}
+
+/* Responsive image */
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+}
+
+footer {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #333;
+  color: white;
+}
