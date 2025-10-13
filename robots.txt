@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://strickland-ev.github.io/al-folio/sitemap.xml
+Sitemap: https://strickland-ev.github.io/sitemap.xml
